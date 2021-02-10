@@ -1,5 +1,5 @@
 # TouchDesigner-CustomParamPreset
- More Simple implementation than the one in Palette browser(Derivative > Techniques > Preset)
+ More Simple implementation than Palette browser's one (Derivative > Techniques > Preset)
  
 ![ss](https://github.com/yumataesu/TouchDesigner-CustomParamPreset/blob/main/readme/ss.png)
 
