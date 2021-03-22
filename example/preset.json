@@ -1,0 +1,186 @@
+{
+  "Intro": [
+    {
+      "key": "Interger",
+      "val": 0
+    },
+    {
+      "key": "Floatingpoint",
+      "val": 0.0
+    },
+    {
+      "key": "Whw",
+      "val": 0.0
+    },
+    {
+      "key": "Whh",
+      "val": 0.0
+    },
+    {
+      "key": "Rgbr",
+      "val": 0.0
+    },
+    {
+      "key": "Rgbg",
+      "val": 0.0
+    },
+    {
+      "key": "Rgbb",
+      "val": 0.0
+    },
+    {
+      "key": "Str",
+      "val": "Intro"
+    },
+    {
+      "key": "Menu",
+      "val": "name1"
+    },
+    {
+      "key": "Strmenu",
+      "val": "name1"
+    },
+    {
+      "key": "Duration",
+      "val": 1.0
+    }
+  ],
+  "ChorusA": [
+    {
+      "key": "Interger",
+      "val": 3
+    },
+    {
+      "key": "Floatingpoint",
+      "val": 0.30000001192092896
+    },
+    {
+      "key": "Whw",
+      "val": 1.2000000000000002
+    },
+    {
+      "key": "Whh",
+      "val": 1.2000000000000002
+    },
+    {
+      "key": "Rgbr",
+      "val": 1.0
+    },
+    {
+      "key": "Rgbg",
+      "val": 0.4
+    },
+    {
+      "key": "Rgbb",
+      "val": 0.2
+    },
+    {
+      "key": "Str",
+      "val": "ChorusA"
+    },
+    {
+      "key": "Menu",
+      "val": "name2"
+    },
+    {
+      "key": "Strmenu",
+      "val": "name2"
+    },
+    {
+      "key": "Duration",
+      "val": 1.0
+    }
+  ],
+  "ChorusB": [
+    {
+      "key": "Interger",
+      "val": 5
+    },
+    {
+      "key": "Floatingpoint",
+      "val": 0.5
+    },
+    {
+      "key": "Whw",
+      "val": 3.2
+    },
+    {
+      "key": "Whh",
+      "val": 3.2
+    },
+    {
+      "key": "Rgbr",
+      "val": 1.0
+    },
+    {
+      "key": "Rgbg",
+      "val": 0.7000000000000001
+    },
+    {
+      "key": "Rgbb",
+      "val": 0.8
+    },
+    {
+      "key": "Str",
+      "val": "ChorusB"
+    },
+    {
+      "key": "Menu",
+      "val": "name3"
+    },
+    {
+      "key": "Strmenu",
+      "val": "name3"
+    },
+    {
+      "key": "Duration",
+      "val": 1.0
+    }
+  ],
+  "Outro": [
+    {
+      "key": "Interger",
+      "val": 10
+    },
+    {
+      "key": "Floatingpoint",
+      "val": 1.0
+    },
+    {
+      "key": "Whw",
+      "val": 12.0
+    },
+    {
+      "key": "Whh",
+      "val": 12.0
+    },
+    {
+      "key": "Rgbr",
+      "val": 0.0
+    },
+    {
+      "key": "Rgbg",
+      "val": 0.1843137
+    },
+    {
+      "key": "Rgbb",
+      "val": 1.0
+    },
+    {
+      "key": "Str",
+      "val": "Outro"
+    },
+    {
+      "key": "Menu",
+      "val": "name1"
+    },
+    {
+      "key": "Strmenu",
+      "val": "name1"
+    },
+    {
+      "key": "Duration",
+      "val": 1.0
+    }
+  ]
+}
