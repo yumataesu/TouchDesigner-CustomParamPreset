@@ -24,7 +24,7 @@ other parameter type is ignored.
 
 
 ## Technical Details
-* Presets are saved as storage in a target Comp.
+* Presets are saved/loaded as json.
 
 
 ![ss](https://github.com/yumataesu/TouchDesigner-CustomParamPreset/blob/main/readme/output.gif)
